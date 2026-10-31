@@ -1,0 +1,1 @@
+{ "name": "cat-status", "version": "0.5.0", "description": "A pixel cat above the prompt: what Claude is doing, limits, friends online", "license": "AGPL-3.0-only", "types": "./types/index.d.ts" }

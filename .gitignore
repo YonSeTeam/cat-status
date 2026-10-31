@@ -1,0 +1,10 @@
+# Written by Claude Code each time it loads the mod; not ours.
+.claude-plugin/types/
+tsconfig.json
+
+# Build output.
+dist/
+*.zip
+
+node_modules/
+.DS_Store
